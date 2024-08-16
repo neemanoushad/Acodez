@@ -1,0 +1,52 @@
+.headerno {
+  width: 1440px;
+  height: 35px;
+  background: #01539d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.phoneno {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  gap: 10px;
+  font-family: Nunito Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21.82px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  margin-left: 154px;
+}
+
+.phoneno p {
+  width: 123px;
+  height: 22px;
+  margin-top: 10px;
+
+  left: 154px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.phoneno img {
+  margin-top: 10px;
+}
+.phoneno p {
+  color: #ffdd1e;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  margin-right: 100px;
+  gap: 10px;
+  color: white;
+  font-family: Nunito Sans;
+  font-weight: 600;
+  font-size: 15px;
+  width: 181px;
+  height: 20px;
+  margin-top: 7px;
+}

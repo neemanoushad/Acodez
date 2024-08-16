@@ -1,0 +1,246 @@
+.logoinfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 58px;
+  margin-top: 5px;
+  padding-left: 129px;
+  margin-bottom: 5px;
+}
+
+.imageinfo {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: 100px;
+  white-space: nowrap;
+}
+
+.imageinfo ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  gap: 20px;
+}
+
+.imageinfo ul li {
+  color: #1e1e1e;
+  font-family: Nunito Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  text-align: right;
+  white-space: nowrap;
+  padding: 0;
+  margin: 0;
+}
+.btn {
+    width: 120px;
+    height: 44px;
+    top: 59px;
+    left: 1190px;
+    gap: 0px;
+    border-radius: 25px;
+    border: 2px solid #FFDD1E;
+    opacity: 0px;
+    margin-right: 100px;
+    
+}
+.btn p {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.82px;
+    text-align: left;
+
+    
+}  
+.Box{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 0px;
+}
+.Boxes{
+  display: flex;
+  gap:20px;
+}
+.Box1{
+  width: 151px;
+height: 27px;
+padding-top: 23px;
+padding-left: 129px;
+gap: 0px;
+opacity: 0px;
+
+}
+.Box1 p {
+font-family: Nunito Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 27.28px;
+text-align: left;
+color: #F9CE20;
+
+}
+.Box2 {
+  width: 431px;
+  height: 48px;
+  padding-top: 22px;
+  padding-left: 129px;
+  gap: 0px;
+  opacity: 1;
+  white-space: nowrap; 
+}
+
+.Box2 p {
+  font-family: Nunito Sans;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 47.74px;
+  text-align: left;
+  color: #FFDD1E;
+}
+
+.Box3 {
+  width: 301px;
+height: 27px;
+padding-top: 23px;
+padding-left: 129px;
+gap: 0px;
+opacity: 0px;
+white-space: nowrap; 
+}
+.Box3 p{
+  font-family: Nunito Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 27.28px;
+text-align: left;
+color: #FFFFFF;
+text-transform: uppercase;
+
+}
+.Box4{
+  width: 468px;
+height: 82px;
+padding-top: 0px;
+padding-left: 129px;
+gap: 0px;
+opacity: 0px;
+
+}
+.Box4 p{
+font-family: Nunito Sans;
+font-size: 60px;
+font-weight: 900;
+line-height: 81.84px;
+text-align: left;
+color: white;
+text-transform: uppercase;
+
+}
+.Box5{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  padding-top: 100px;
+
+}
+.Box5 img{
+width: 20px;
+height: 20px;
+padding-left: 129px;
+padding-top: 20px;
+
+}
+.Box5 p{
+  font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.55px;
+text-align: left;
+color: white;
+
+}
+.Box6{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  padding-top: 100px;
+}
+.Box6 img{
+  width: 20px;
+  height: 20px;
+ 
+  padding-top: 20px;
+  
+  }
+  .Box6 p{
+    font-family: Nunito Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  text-align: left;
+  color: white;
+  
+  }
+  .Box5{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    padding-top: 100px;
+  
+  }
+  .Box5 img{
+  width: 20px;
+  height: 20px;
+  padding-left: 129px;
+  padding-top: 20px;
+  
+  }
+  .Box5 p{
+    font-family: Nunito Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  text-align: left;
+  color: white;
+  
+  }
+  .Box7{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    padding-top: 100px;
+  
+  }
+  .Box7 img{
+  width: 20px;
+  height: 20px;
+  padding-top: 20px;
+  
+  }
+  .Box7 p{
+    font-family: Nunito Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  text-align: left;
+  color: white;
+  
+  }
+
