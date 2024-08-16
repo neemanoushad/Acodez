@@ -35,6 +35,11 @@ function Introduction() {
     <p>Doubt Support</p>
 
 </div>
+<div className='Box8'>
+    <img src={tick} alt="" />
+    <p>Test Series</p>
+
+</div>
 
 </div>
     </div>
